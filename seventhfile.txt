@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 seventfile in anuedbranch
+=======
+this is sevent file in master
+>>>>>>> 9a5ea27770722a23d40d22de678fabcde078eb26
